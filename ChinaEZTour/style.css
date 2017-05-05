@@ -1,0 +1,22 @@
+/*
+Theme Name: ChinaEztour
+Theme URI:http://www.chinaeztour.com/
+Author: pyk
+Author URI: http://www.chinaeztour.com
+Description:ChinaEZTour 
+Tags: black, blue, orange, pink, purple, yellow, one-column, two-columns, right-sidebar, left-sidebar, fluid-layout, custom-menu, featured-images, rtl-language-support, translation-ready
+License: GNU General Public License
+License URI: http://www.chinaeztour.com
+Version: 0.7.14
+*/
+.tour_tittle{ font-size:16px; clear:both; line-height:30px}
+.tour_tittle b{ background: rgba(0, 0, 0, 0) url("/skin/day_title.png") no-repeat scroll 0 0;
+    color: #fff;
+    display: block;
+    float: left;
+    font-size: 18px;
+    height: 30px;
+    padding-left: 10px;
+    width: 86px;}
+.tour_intro{ clear:both; margin:5px}
+.tour_img{ float:right}
