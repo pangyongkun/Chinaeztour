@@ -122,7 +122,7 @@ function tour_meta_boxes($meta_boxes)
         'fields' => array(
             array(
                 'id' => 'tour_optional_activities',
-                'name' => __('Tour option activity', 'textdomain'),
+                'name' => __('Tour option activities', 'textdomain'),
                 'type' => 'wysiwyg'
             ),
             array(
